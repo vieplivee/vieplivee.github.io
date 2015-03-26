@@ -1,19 +1,8 @@
-# Project-Euler-Scala
+# A website
 
-Learning Scala by working on Project Euler problems
-
-----
-
-##### Change log
-
-- skipping 11
-- skipping 13
-- skipping 17
-- skipping 18
-- skipping 19 (calendar)
-- skipping 23 (huge input)
+Please vist: <http://vieplivee.github.io/>
 
 ----
 
-- Start Date: 03.14.2015
-- Last Updated: 03.15.2015# vieplivee.github.io
+- Created Date: 03.26.2015
+- Last Updated: 03.26.2015
