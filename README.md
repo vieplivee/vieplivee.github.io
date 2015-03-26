@@ -16,4 +16,4 @@ Learning Scala by working on Project Euler problems
 ----
 
 - Start Date: 03.14.2015
-- Last Updated: 03.15.2015
+- Last Updated: 03.15.2015# vieplivee.github.io
